@@ -1,1 +1,1 @@
-
+You are provided with two datasets: (1) the train_dataset where the observed values of the Site EUI for each row are provided and (2) the x_test dataset the observed values of the Site EUI for each row are removed and provided separately in y_test. Your task is to predict the Site EUI for each row (using the complete training dataset), given the characteristics of the building and the weather data for the location of the building. Use the test sets for validation and testing. 
